@@ -6,7 +6,7 @@
 A capacidade de enxergar o infinito pela tela do :computer: nunca me decepciona.
 Estou estudando para ser um FullStack Developer :computer:
 
- 🧡:blue_heart:  &nbsp; Estou trabalhando na **Fonte Jr** 🧡:blue_heart:
+ 🧡:blue_heart:  &nbsp; Estou trabalhando na **[Fonte jr](http://fontejr.com.br/)🧡:blue_heart:
  <br/> :rocket: &nbsp; Estou me capacitando e desenvolvendo projetos próprios
  <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JS, Java :smiley:
  <br/> :computer: &nbsp; Minha stack: Sigo bastante a stack da rocketseat ( Node, React, React Native ) mas também vi um pouco de Java com Thymeleaf que foi bastante interessante
