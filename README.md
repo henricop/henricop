@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?cs=srgb&dl=pexels-pixabay-270408.jpg&fm=jpg">
 
 # Henrico Piubello
 
