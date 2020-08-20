@@ -1,5 +1,7 @@
 # Henrico Piubello <img  src="https://img.shields.io/static/v1?label=Henrico&message=Piubello&color=black&style=for-the-badge"/>
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henricop/)](https://www.linkedin.com/in/henricop/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hpiubello@gmail.com)](mailto:hpiubello@gmail.com)
+[![GitHub henricop](https://img.shields.io/github/followers/henricop?label=follow&style=social)](https://github.com/henricop)
 ## Olá pessoal 👋
 A capacidade de enxergar o infinito pela tela do :computer: nunca me decepciona.
 Estou estudando para ser um FullStack Developer :computer:
