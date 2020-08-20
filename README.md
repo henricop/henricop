@@ -1,4 +1,4 @@
-# Henrico Piubello <img  src="https://img.shields.io/static/v1?label=Henrico&message=LTS&color=gray&style=for-the-badge"/>
+# Henrico Piubello <img  src="https://img.shields.io/static/v1?label=Henrico&message=Piubello&color=black&style=for-the-badge"/>
 
 ## Olá pessoal 👋
 A capacidade de enxergar o infinito pela tela do :computer: nunca me decepciona.
