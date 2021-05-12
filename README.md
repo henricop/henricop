@@ -7,7 +7,7 @@ A capacidade de enxergar o infinito pela tela do :computer: nunca me decepciona.
 Estou estudando para ser um FullStack Developer :computer:
 
  🧡:blue_heart:  &nbsp; Estou trabalhando atualmente no [Grupo Voitto](https://www.linkedin.com/school/voitto-treinamento-e-desenvolvimento/)🧡
- <br/> 🚀 &nbsp; Lá nós mantemos uma grande plataforma e diversos microsservios e apis
+ <br/> 🚀 &nbsp; Lá nós mantemos uma grande plataforma e diversos microsserviços e apis
  <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JS, React, Node Java :smiley:
  <br/> 💬  &nbsp; Sobre mim: Eu gosto muito de estudar, praticar exercicios, sair com amigos, e ouvir muita musica. Curto jogar Dota !
  <br/> :rocket: &nbsp; Meu primeiro sitezinho :arrow_right: **[Henrico Piubello](https://henricop.github.io/brand/)** 
