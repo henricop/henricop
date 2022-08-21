@@ -6,6 +6,7 @@
 =https://www.instagram.com/dev.henrico/)
 ## Olá pessoal 👋
 A capacidade de enxergar o infinito pela tela do :computer: nunca me decepciona.
-Estou estudando para ser um FullStack Developer :computer:
+
+Fala pessoal ! Meu GitHub tá bem desatualizado de projetos, já que estou bem ocupado com os desenvolvimentos privados empresariais ! :computer:
 
 <br/> 🚀 &nbsp; Vamos fazer desse repositório um mundo de códigos dia pós dia
