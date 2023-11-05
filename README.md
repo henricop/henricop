@@ -1,12 +1,65 @@
-# Henrico Piubello 
+### Olá, pessoal. Meu nome é [Henrico Piubello](https://www.linkedin.com/in/henricop/) 👋
 
-[![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henricop/)](https://www.linkedin.com/in/henricop/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hpiubello@gmail.com)](mailto:hpiubello@gmail.com)
-[![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.henrico/)](
-=https://www.instagram.com/dev.henrico/)
-## Olá pessoal 👋
-A capacidade de enxergar o infinito pela tela do :computer: nunca me decepciona.
+Sou graduando em Sistema de Informação no [Instituto Federal do Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/). Além disso, sou um desenvolvedor fullstack que gosta de escrever artigos (sobre tecnologia, programação, ciência de dados, produtividade) e contribuir com código aberto.
 
-Fala pessoal ! Meu GitHub tá bem desatualizado de projetos, já que estou bem ocupado com os desenvolvimentos privados empresariais ! :computer:
+**Minha linha de estudo**:
+- 🌐 Desenvolvimento Web Especializado (Frontend, com ênfase em Next.js)
+- 📈 SEO Avançado para Alavancar Resultados Online
+- 🚀 Gerenciamento de Equipe Tech como Product Owner (P.O)
+- 🛡️ Segurança de Sistemas (Pentest com foco em DESEC)
 
-<br/> 🚀 &nbsp; Vamos fazer desse repositório um mundo de códigos dia pós dia
+ **Estou aberto a**:
+
+- 🤝 Explorar Oportunidades de Colaboração e Parcerias em Diversos Campos.
+- 🚀 Participar de Projetos Inovadores de Desenvolvimento e Pesquisa para Aprimorar Meu Portfólio.
+- 📝 Escrever Artigos sobre Tecnologia e Compartilhar Conhecimento com a Comunidade.
+- 💻 Contribuir Ativamente para Squads e Projetos de Código Aberto.
+
+## Skills:
+
+#### Linguagens:
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+
+#### Tools e Technologies
+
+![Unix](https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=unix&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
+
+#### IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+#### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
+
+
+## Me encontre:
+
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/HenricoNeves)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/henricop/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/dev.henrico/)
+</p>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henricop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Henrico github stars" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricop&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
