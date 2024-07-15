@@ -1,6 +1,6 @@
 ### Olá, pessoal. Meu nome é [Henrico Piubello](https://www.linkedin.com/in/henricop/) 👋
 
-Sou graduando em Sistema de Informação no [Instituto Federal do Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/). Além disso, sou um desenvolvedor fullstack que gosta de escrever artigos (sobre tecnologia, programação, ciência de dados, produtividade) e contribuir com código aberto.
+Sou um desenvolvedor fullstack que gosta de escrever artigos (sobre tecnologia, programação, ciência de dados, produtividade) e contribuir com código aberto.
 
 **Minha linha de estudo**:
 - 🌐 Desenvolvimento Web Especializado (Frontend, com ênfase em Next.js)
