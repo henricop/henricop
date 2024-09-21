@@ -8,13 +8,6 @@ Sou um desenvolvedor fullstack que gosta de escrever artigos (sobre tecnologia, 
 - 🚀 Gerenciamento de Equipe Tech como Product Owner (P.O)
 - 🛡️ Segurança de Sistemas (Pentest com foco em DESEC)
 
- **Estou aberto a**:
-
-- 🤝 Explorar Oportunidades de Colaboração e Parcerias em Diversos Campos.
-- 🚀 Participar de Projetos Inovadores de Desenvolvimento e Pesquisa para Aprimorar Meu Portfólio.
-- 📝 Escrever Artigos sobre Tecnologia e Compartilhar Conhecimento com a Comunidade.
-- 💻 Contribuir Ativamente para Squads e Projetos de Código Aberto.
-
 ## Skills:
 
 #### Linguagens:
