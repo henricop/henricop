@@ -6,7 +6,9 @@ Sou um desenvolvedor fullstack que gosta de escrever artigos (sobre tecnologia, 
 - 🌐 Desenvolvimento Web Especializado (Frontend, com ênfase em Next.js)
 - 📈 SEO Avançado para Alavancar Resultados Online
 - 🚀 Gerenciamento de Equipe Tech como Product Owner (P.O)
-- 🛡️ Segurança de Sistemas (Pentest com foco em DESEC)
+- 🛡️ Segurança de Sistemas (Pentest)
+
+Atualmente atuo como Líder técnico na [Voitto](https://voitto.com.br)
 
 ## Skills:
 
