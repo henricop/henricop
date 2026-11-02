@@ -1,48 +1,48 @@
-### Olá! Eu sou o [Henrico Piubello](https://hepine.com) 👋
+### Hi, I'm [Henrico Piubello](https://hepine.com) 👋
 
-**AI Engineer.** Construo produto inteiro com IA, do dado ao deploy, e lidero o time técnico quando precisa.
-📍 Juiz de Fora (MG) · 🌐 **[hepine.com](https://hepine.com)** · ✉️ contato@hepine.com
+**AI Engineer.** I build end-to-end AI products, from data to deployment, and lead engineering teams when needed.
+📍 Juiz de Fora, MG, Brazil · 🌐 **[hepine.com](https://hepine.com)** · ✉️ contato@hepine.com
 
-> Da manutenção hidráulica ao LLM em produção.
-> O limite deixou de ser o tempo ou o tamanho do time. Agora é o tamanho da ideia.
+> From industrial maintenance to LLMs in production.
+> Time and team size are no longer the limit. The only limit is the size of the idea.
 
 ---
 
-## Hoje
+## What I'm doing now
 
-- 🧪 **Líder do AI Lab** na Núcleo de Performance — a parte técnica dos clientes: conversão offline, atribuição, sites, migração de e-commerce e resposta a incidente
-- 🛠️ **Líder técnico** na **[Starhash](https://starhash.ai)** — plataforma que licencia a imagem de criadores para IA generativa, no ar com cobrança real
-- 🤝 **Sócio, engenheiro de IA e tech lead** na **Solabs** — SolabsForce: CRM e atendimento omnichannel com agentes de IA
-- 📚 Antes: **5,5 anos na Voitto**, de estagiário a especialista sênior e líder do time de devs, de vendas e da TI
+- 🧪 **Head of the AI Lab** at Núcleo de Performance — leading the technical side of client work across offline conversions, attribution, websites, e-commerce migrations, and incident response
+- 🛠️ **Technical Lead** at **[Starhash](https://starhash.ai)** — a live platform that licenses creators' likenesses for generative AI
+- 🤝 **Partner, AI Engineer, and Tech Lead** at **Solabs** — building SolabsForce, an omnichannel CRM and customer service platform powered by AI agents
+- 📚 Previously: **5.5 years at Voitto**, progressing from intern to senior specialist and leading the development, sales, and IT teams
 
-## Produtos no ar
+## Products in production
 
-| Projeto | O que é |
+| Project | What it does |
 | --- | --- |
-| **[Realidade Brasil](https://realidadebrasil.com.br)** | Civic tech das eleições de 2026: "voto às cegas" com trechos reais das propostas registradas no TSE. Do zero à produção em ~6 dias, com 192 testes e 50 cenários E2E. |
-| **[Cumpre](https://cumpre.com.br)** | A IA lê o contrato, confere juros e prazos e avisa antes do vencimento — e só afirma o que consegue citar literalmente. |
-| **[CodeCrush](https://codecrush.com.br)** | O hub dev brasileiro que eu mantenho desde 2023: blog, 40 ferramentas, quadro de vagas, [radar de IA](https://codecrush.com.br/radar-de-ia) e mapas de carreira. |
-| **[WifiShow](https://github.com/henricop/wifishow)** | Analisador de espectro Wi-Fi nativo para macOS em SwiftUI: quem ocupa cada canal, em que largura e com que força. Código aberto, sem dependência e sem acesso à rede. |
+| **[Realidade Brasil](https://realidadebrasil.com.br)** | Civic tech for Brazil's 2026 elections: a blind-voting experience built from real excerpts of proposals registered with the electoral authority. Shipped from zero to production in about six days, with 192 tests and 50 end-to-end scenarios. |
+| **[Cumpre](https://cumpre.com.br)** | AI that reads contracts, checks interest rates and deadlines, and sends reminders before due dates — while only making claims it can support with exact quotes. |
+| **[CodeCrush](https://codecrush.com.br)** | A Brazilian developer hub I have maintained since 2023, featuring a blog, 40 tools, a job board, an [AI radar](https://codecrush.com.br/radar-de-ia), and career maps. |
+| **[WifiShow](https://github.com/henricop/wifishow)** | A native macOS Wi-Fi spectrum analyzer built with SwiftUI. See who occupies each channel, at what width, and with what signal strength — open source, dependency-free, and without network access. |
 
-## Números
+## By the numbers
 
 | | |
 | --- | --- |
-| **~6 dias** | para colocar o Realidade Brasil no ar, do zero |
-| **R$ 1,03 mi** | em vendas reais devolvidas à mídia como conversão, num case de cliente |
-| **5,5 anos** | na Voitto, de estagiário a líder do time de devs, de vendas e da TI |
-| **86 artigos** | técnicos escritos, e 12 aulas gravadas |
+| **~6 days** | to take Realidade Brasil from zero to production |
+| **R$1.03M** | in verified sales sent back to advertising platforms as conversions in one client engagement |
+| **5.5 years** | at Voitto, from intern to leader of the development, sales, and IT teams |
+| **86 articles** | published on technical topics, plus 12 recorded classes |
 
-## Como eu trabalho com IA
+## How I work with AI
 
-- **Vários agentes, um contrato só** — Claude Code, Codex e OpenCode trabalham nos mesmos repositórios lendo o mesmo `AGENTS.md`
-- **Paralelo e comparação** — agentes em paralelo na mesma tarefa, saídas comparadas e trabalho dividido por tipo de tarefa
-- **Revisão e guardrails** — muita revisão e teste; um hook força backup do workflow antes de qualquer alteração no n8n
-- **Ferramentas próprias** — skills que eu escrevi: o repasse do dia cruzando os rastros de IA da máquina com Jira e Asana, um diário de entregas e governança de marca escrita para IA
+- **Multiple agents, one contract** — Claude Code, Codex, and OpenCode work in the same repositories and follow the same `AGENTS.md`
+- **Parallel execution and comparison** — agents work on the same problem concurrently, outputs are compared, and responsibilities are divided by task type
+- **Review and guardrails** — rigorous review and testing; one hook forces a workflow backup before any n8n change
+- **Custom tools** — skills I built for daily handoffs that reconcile local AI activity with Jira and Asana, delivery journaling, and AI-ready written brand governance
 
-## Stack
+## Technology stack
 
-#### Linguagens
+#### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -58,18 +58,18 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-#### IA e automação
+#### AI and automation
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)&nbsp;
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Dados
+#### Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Infra e cloud
+#### Infrastructure and cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
@@ -79,28 +79,13 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### Marketing, redes e segurança
+#### Marketing, networking, and security
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)&nbsp;
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)&nbsp;
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)&nbsp;
-![LGPD](https://img.shields.io/badge/LGPD%20%2F%20ISO%2027001-0A0A0A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![Data Protection](https://img.shields.io/badge/Data%20Protection%20%2F%20ISO%2027001-0A0A0A?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 
-<details>
-<summary><strong>🇬🇧 English</strong></summary>
-
-<br>
-
-I'm an **AI Engineer** in Juiz de Fora (MG), Brazil. I build complete products with AI, from data to deploy, and lead the engineering team when needed.
-
-I lead the **AI Lab at Núcleo de Performance**, I'm the **technical lead at [Starhash](https://starhash.ai)** and a **partner at Solabs**. I ship products on my own — like **[Cumpre](https://cumpre.com.br)** (an AI that reads contracts and only states what it can quote) and **[Realidade Brasil](https://realidadebrasil.com.br)** (civic tech for the 2026 elections, from zero to production in ~6 days with 192 tests) — and I've kept **[CodeCrush](https://codecrush.com.br)** running since 2023. **[WifiShow](https://github.com/henricop/wifishow)**, a native Wi-Fi spectrum analyzer for macOS, is open source. Before all that came five and a half years at Voitto, from intern to senior specialist and tech lead.
-
-From hydraulic maintenance to LLMs in production. The limit is no longer time or team size — it's the size of the idea.
-
-Full dossier, in English too: **[hepine.com](https://hepine.com)**
-
-</details>
-
-## Me encontre
+## Find me online
 
 <p align="center">
 
