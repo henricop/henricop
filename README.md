@@ -24,15 +24,6 @@
 | **[CodeCrush](https://codecrush.com.br)** | A Brazilian developer hub I have maintained since 2023, featuring a blog, 40 tools, a job board, an [AI radar](https://codecrush.com.br/radar-de-ia), and career maps. |
 | **[WifiShow](https://github.com/henricop/wifishow)** | A native macOS Wi-Fi spectrum analyzer built with SwiftUI. See who occupies each channel, at what width, and with what signal strength — open source, dependency-free, and without network access. |
 
-## By the numbers
-
-| | |
-| --- | --- |
-| **~6 days** | to take Realidade Brasil from zero to production |
-| **R$1.03M** | in verified sales sent back to advertising platforms as conversions in one client engagement |
-| **5.5 years** | at Voitto, from intern to leader of the development, sales, and IT teams |
-| **86 articles** | published on technical topics, plus 12 recorded classes |
-
 ## How I work with AI
 
 - **Multiple agents, one contract** — Claude Code, Codex, and OpenCode work in the same repositories and follow the same `AGENTS.md`
