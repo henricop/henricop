@@ -24,6 +24,16 @@
 | **[CodeCrush](https://codecrush.com.br)** | A Brazilian developer hub I have maintained since 2023, featuring a blog, 40 tools, a job board, an [AI radar](https://codecrush.com.br/radar-de-ia), and career maps. |
 | **[WifiShow](https://github.com/henricop/wifishow)** | A native macOS Wi-Fi spectrum analyzer built with SwiftUI. See who occupies each channel, at what width, and with what signal strength — open source, dependency-free, and without network access. |
 
+## Selected open-source contributions
+
+- **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm/pull/6942)** — moved Azure OpenAI reasoning-agent calls to the Responses API
+- **[Keep](https://github.com/keephq/keep/pull/6907)** — added alert labels to the alert sidebar
+- **[Hermes WebUI](https://github.com/nesquena/hermes-webui/pull/8730)** — preserved provider identity in fallback-model badges
+- **[DreamCoder](https://github.com/GoDiao/dreamcoder/pull/233)** — constrained chat image attachments
+- **[Agent Swarm](https://github.com/desplega-ai/agent-swarm/pull/2629)** — documented model-tier selection for task execution
+
+I also publish reusable automation in **[henricop/skills](https://github.com/henricop/skills)**, including GitHub workflow, visual prototyping, and local transcription skills.
+
 ## How I work with AI
 
 - **Multiple agents, one contract** — Claude Code, Codex, and OpenCode work in the same repositories and follow the same `AGENTS.md`
