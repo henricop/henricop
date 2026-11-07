@@ -26,11 +26,31 @@
 
 ## Selected open-source contributions
 
+### Merged
+
+- **[Unhead](https://github.com/unjs/unhead/pull/1039)** — escaped control characters in JSON template parameters
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm/pull/6942)** — moved Azure OpenAI reasoning-agent calls to the Responses API
 - **[Keep](https://github.com/keephq/keep/pull/6907)** — added alert labels to the alert sidebar
 - **[Hermes WebUI](https://github.com/nesquena/hermes-webui/pull/8730)** — preserved provider identity in fallback-model badges
 - **[DreamCoder](https://github.com/GoDiao/dreamcoder/pull/233)** — constrained chat image attachments
 - **[Agent Swarm](https://github.com/desplega-ai/agent-swarm/pull/2629)** — documented model-tier selection for task execution
+
+### Recent pull requests
+
+These pull requests are open for review; they have not been merged.
+
+| Project | Contribution |
+| --- | --- |
+| **[LlamaIndex](https://github.com/run-llama/llama_index/pull/24067)** | Restore temporary attributes when a setter fails. |
+| **[Langflow](https://github.com/langflow-ai/langflow/pull/16248)** | Enter the asyncio timeout context asynchronously. |
+| **[Pipecat](https://github.com/pipecat-ai/pipecat/pull/6600)** | Count supplementary CJK ideographs as spoken words. |
+| **[Braintrust](https://github.com/braintrustdata/braintrust-sdk-javascript/pull/2754)** | Await PromiseLike results before ending traced spans. |
+| **[React Hook Form](https://github.com/react-hook-form/react-hook-form/pull/14004)** | Clear pending validation when a resolver rejects. |
+| **[Redux Toolkit](https://github.com/reduxjs/redux-toolkit/pull/5598)** | Append query parameters before URL fragments. |
+| **[Svelte](https://github.com/sveltejs/svelte/pull/19212)** | Recognize case-insensitive CSS keyframes at-rules. |
+| **[Material UI](https://github.com/mui/material-ui/pull/49698)** | Preserve independent `sx` with styled-components. |
+
+[Full contribution record, including merged PRs, open reviews and drafts](CONTRIBUTIONS.md). Status verified on November 7, 2026.
 
 I also publish reusable automation in **[henricop/skills](https://github.com/henricop/skills)**, including GitHub workflow, visual prototyping, and local transcription skills.
 
